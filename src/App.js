@@ -1,7 +1,15 @@
 import './App.css'
+import './allStar.json'
+import playerArray from './allStar.json'
+import Player from './components/Player'
+import Accolades from './components/Accolades'
 
-function App() {
-  return <div></div>
+const App = () => {
+  return (
+    <div>
+      <h1>NBA All-Stars</h1>
+    </div>
+  )
 }
 
 export default App
