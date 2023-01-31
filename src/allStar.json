@@ -1,0 +1,684 @@
+{
+  "list": [
+    {
+      "player": {
+        "first": "Jayson",
+        "last": "Tatum",
+        "team": "Celtics",
+        "height": "6'8",
+        "Points": "31.1",
+        "vote": "5,221,720",
+        "appearances": "4",
+        "number": "0"
+      },
+      "accolades": {
+        "popularity": "Top 10",
+        "MVP": "Candidate",
+        "Ability": "Closer"
+      }
+    },
+    {
+      "player": {
+        "first": "Joel",
+        "last": "Embid",
+        "team": "76ers",
+        "height": "7'0",
+        "Points": "33.8",
+        "vote": "4,900,482",
+        "appearances": "5",
+        "number": "21"
+      },
+      "accolades": {
+        "popularity": "Top 10",
+        "MVP": "Candidate",
+        "Ability": "Defender"
+      }
+    },
+    {
+      "player": {
+        "first": "Nikola",
+        "last": "Jokic",
+        "team": "Nuggets",
+        "height": "6'11",
+        "Points": "25.1",
+        "vote": "5,418,036",
+        "appearances": "5",
+        "number": "15"
+      },
+      "accolades": {
+        "popularity": "Top 10",
+        "MVP": "Candidate",
+        "Ability": "Defender"
+      }
+    },
+    {
+      "player": {
+        "first": "Lebron",
+        "last": "James",
+        "team": "Lakers",
+        "height": "6'9",
+        "Points": "30.2",
+        "vote": "7,418,116",
+        "appearances": "19",
+        "number": "6"
+      },
+      "accolades": {
+        "popularity": "Captain",
+        "MVP": "GOAT",
+        "Ability": "Clutch"
+      }
+    },
+    {
+      "player": {
+        "first": "Anthony",
+        "last": "Davis",
+        "team": "Lakers",
+        "height": "6'10",
+        "Points": "26.7",
+        "vote": "4,307,925",
+        "appearances": "8",
+        "number": "3"
+      },
+      "accolades": {
+        "popularity": "reserve",
+        "MVP": "Maybe Next Year",
+        "Ability": "Defender"
+      }
+    },
+    {
+      "player": {
+        "first": "Zion",
+        "last": "Williamson",
+        "team": "Pelicans",
+        "height": "6'6",
+        "Points": "26",
+        "vote": "4,217,393",
+        "appearances": "2",
+        "number": "1"
+      },
+      "accolades": {
+        "popularity": "reserve",
+        "MVP": "Maybe Next Year",
+        "Ability": "Defender"
+      }
+    },
+    {
+      "player": {
+        "first": "Andrew",
+        "last": "Wiggins",
+        "team": "Warriors",
+        "height": "6'7",
+        "Points": "17.5",
+        "vote": "2,432,986",
+        "appearances": "1",
+        "number": "22"
+      },
+      "accolades": {
+        "popularity": "reserve",
+        "MVP": "Maybe Next Year",
+        "Ability": "normal"
+      }
+    },
+    {
+      "player": {
+        "first": "Paul",
+        "last": "George",
+        "team": "Clippers",
+        "height": "6'8",
+        "Points": "23.5",
+        "vote": "1,775,937",
+        "appearances": "7",
+        "number": "13"
+      },
+      "accolades": {
+        "popularity": "reserve",
+        "MVP": "Maybe Next Year",
+        "Ability": "normal"
+      }
+    },
+    {
+      "player": {
+        "first": "Lauri",
+        "last": "Markkanen",
+        "team": "Jazz",
+        "height": "6'11",
+        "Points": "24.9",
+        "vote": "1,642,052",
+        "appearances": "2",
+        "number": "23"
+      },
+      "accolades": {
+        "popularity": "reserve",
+        "MVP": "Maybe Next Year",
+        "Ability": "normal"
+      }
+    },
+    {
+      "player": {
+        "first": "Draymond",
+        "last": "Green",
+        "team": "Warriors",
+        "height": "6'6",
+        "Points": "7.9",
+        "vote": "1,152,752",
+        "appearances": "4",
+        "number": "23"
+      },
+      "accolades": {
+        "popularity": "reserve",
+        "MVP": "Maybe Next Year",
+        "Ability": "Defender"
+      }
+    },
+    {
+      "player": {
+        "first": "Domantas",
+        "last": "Sabonis",
+        "team": "Kings",
+        "height": "7'0",
+        "Points": "18.5",
+        "vote": "859,352",
+        "appearances": "1",
+        "number": "10"
+      },
+      "accolades": {
+        "popularity": "reserve",
+        "MVP": "Maybe Next Year",
+        "Ability": "normal"
+      }
+    },
+    {
+      "player": {
+        "first": "Kevon",
+        "last": "Looney",
+        "team": "Warriors",
+        "height": "6'9",
+        "Points": "6.7",
+        "vote": "831,521",
+        "appearances": "0",
+        "number": "5"
+      },
+      "accolades": {
+        "popularity": "reserve",
+        "MVP": "Maybe Next Year",
+        "Ability": "normal"
+      }
+    },
+    {
+      "player": {
+        "first": "Stephen",
+        "last": "Curry",
+        "team": "Warriors",
+        "height": "6'2",
+        "Points": "29.5",
+        "vote": "5,826,248",
+        "appearances": "9",
+        "number": "30"
+      },
+      "accolades": {
+        "popularity": "Top 10",
+        "MVP": "Maybe Next Year",
+        "Ability": "Clutch"
+      }
+    },
+    {
+      "player": {
+        "first": "Luka",
+        "last": "Doncic",
+        "team": "Mavericks",
+        "height": "6'7",
+        "Points": "33",
+        "vote": "5,566,875",
+        "appearances": "2",
+        "number": "3"
+      },
+      "accolades": {
+        "popularity": "Top 10",
+        "MVP": "Candidate",
+        "Ability": "Closer"
+      }
+    },
+    {
+      "player": {
+        "first": "Ja",
+        "last": "Morant",
+        "team": "Grizzles",
+        "height": "6'3",
+        "Points": "27.3",
+        "vote": "2,214,793",
+        "appearances": "1",
+        "number": "12"
+      },
+      "accolades": {
+        "popularity": "reserve",
+        "MVP": "Maybe Next Year",
+        "Ability": "Closer"
+      }
+    },
+    {
+      "player": {
+        "first": "Shai",
+        "last": "Alexander",
+        "team": "76ers",
+        "height": "6'6",
+        "Points": "30.9",
+        "vote": "2,107,557",
+        "appearances": "2",
+        "number": "0"
+      },
+      "accolades": {
+        "popularity": "reserve",
+        "MVP": "Maybe Next Year",
+        "Ability": "normal"
+      }
+    },
+    {
+      "player": {
+        "first": "Klay",
+        "last": "Thompson",
+        "team": "Warriors",
+        "height": "6'6",
+        "Points": "20.9",
+        "vote": "1,418,680",
+        "appearances": "5",
+        "number": "11"
+      },
+      "accolades": {
+        "popularity": "reserve",
+        "MVP": "Maybe Next Year",
+        "Ability": "normal"
+      }
+    },
+    {
+      "player": {
+        "first": "Russell",
+        "last": "Westbrook",
+        "team": "Lakers",
+        "height": "6'3",
+        "Points": "15.8",
+        "vote": "1,125,401",
+        "appearances": "9",
+        "number": "0"
+      },
+      "accolades": {
+        "popularity": "reserve",
+        "MVP": "Maybe Next Year",
+        "Ability": "normal"
+      }
+    },
+    {
+      "player": {
+        "first": "Damian",
+        "last": "Lillard",
+        "team": "Blazers",
+        "height": "6'2",
+        "Points": "30.1",
+        "vote": "774,826",
+        "appearances": "6",
+        "number": "0"
+      },
+      "accolades": {
+        "popularity": "reserve",
+        "MVP": "Maybe Next Year",
+        "Ability": "Clutch"
+      }
+    },
+    {
+      "player": {
+        "first": "De'Aaron",
+        "last": "Fox",
+        "team": "Kings",
+        "height": "6'3",
+        "Points": "23.9",
+        "vote": "477,787",
+        "appearances": "0",
+        "number": "5"
+      },
+      "accolades": {
+        "popularity": "reserve",
+        "MVP": "Maybe Next Year",
+        "Ability": "normal"
+      }
+    },
+    {
+      "player": {
+        "first": "Austin",
+        "last": "Reaves",
+        "team": "Lakers",
+        "height": "6'5",
+        "Points": "10.8",
+        "vote": "464,164",
+        "appearances": "2",
+        "number": "15"
+      },
+      "accolades": {
+        "popularity": "reserve",
+        "MVP": "Maybe Next Year",
+        "Ability": "normal"
+      }
+    },
+    {
+      "player": {
+        "first": "Devin",
+        "last": "Booker",
+        "team": "Suns",
+        "height": "6'5",
+        "Points": "27.1",
+        "vote": "432,980",
+        "appearances": "3",
+        "number": "1"
+      },
+      "accolades": {
+        "popularity": "reserve",
+        "MVP": "Maybe Next Year",
+        "Ability": "Closer"
+      }
+    },
+    {
+      "player": {
+        "first": "Giannis",
+        "last": "Antetokounmpo",
+        "team": "Bucks",
+        "height": "6'11",
+        "Points": "31.7",
+        "vote": "6,761,032",
+        "appearances": "7",
+        "number": "34"
+      },
+      "accolades": {
+        "popularity": "Captain",
+        "MVP": "Maybe Next Year",
+        "Ability": "Clutch"
+      }
+    },
+    {
+      "player": {
+        "first": "Kevin",
+        "last": "Durant",
+        "team": "Nets",
+        "height": "6'10",
+        "Points": "29.7",
+        "vote": "6,525,199",
+        "appearances": "12",
+        "number": "7"
+      },
+      "accolades": {
+        "popularity": "Top 10",
+        "MVP": "Candidate",
+        "Ability": "Clutch"
+      }
+    },
+    {
+      "player": {
+        "first": "Jimmy",
+        "last": "Butler",
+        "team": "Heat",
+        "height": "6'7",
+        "Points": "21.9",
+        "vote": "1,097,720",
+        "appearances": "6",
+        "number": "22"
+      },
+      "accolades": {
+        "popularity": "reserve",
+        "MVP": "Maybe Next Year",
+        "Ability": "Clutch"
+      }
+    },
+    {
+      "player": {
+        "first": "Pascal",
+        "last": "Siakam",
+        "team": "Raptors",
+        "height": "6'8",
+        "Points": "25.1",
+        "vote": "868,243",
+        "appearances": "3",
+        "number": "43"
+      },
+      "accolades": {
+        "popularity": "reserve",
+        "MVP": "Maybe Next Year",
+        "Ability": "normal"
+      }
+    },
+    {
+      "player": {
+        "first": "Kyrie",
+        "last": "Irving",
+        "team": "Nets",
+        "height": "6'2",
+        "Points": "27.3",
+        "vote": "4,467,232",
+        "appearances": "8",
+        "number": "11"
+      },
+      "accolades": {
+        "popularity": "Top 10",
+        "MVP": "Maybe Next Year",
+        "Ability": "Clutch"
+      }
+    },
+    {
+      "player": {
+        "first": "Kyle",
+        "last": "Kuzma",
+        "team": "Wizards",
+        "height": "6'9",
+        "Points": "22",
+        "vote": "597,167",
+        "appearances": "0",
+        "number": "33"
+      },
+      "accolades": {
+        "popularity": "reserve",
+        "MVP": "Maybe Next Year",
+        "Ability": "normal"
+      }
+    },
+    {
+      "player": {
+        "first": "Paolo",
+        "last": "Banchero",
+        "team": "Magic",
+        "height": "6'10",
+        "Points": "20.5",
+        "vote": "584,752",
+        "appearances": "0",
+        "number": "5"
+      },
+      "accolades": {
+        "popularity": "reserve",
+        "MVP": "Maybe Next Year",
+        "Ability": "normal"
+      }
+    },
+    {
+      "player": {
+        "first": "Julius",
+        "last": "Randle",
+        "team": "Knicks",
+        "height": "6'8",
+        "Points": "24.7",
+        "vote": "451,862",
+        "appearances": "1",
+        "number": "30"
+      },
+      "accolades": {
+        "popularity": "reserve",
+        "MVP": "Maybe Next Year",
+        "Ability": "normal"
+      }
+    },
+    {
+      "player": {
+        "first": "Nic",
+        "last": "Claxton",
+        "team": "Nets",
+        "height": "6'11",
+        "Points": "13.2",
+        "vote": "440,862",
+        "appearances": "0",
+        "number": "33"
+      },
+      "accolades": {
+        "popularity": "reserve",
+        "MVP": "Maybe Next Year",
+        "Ability": "Defender"
+      }
+    },
+    {
+      "player": {
+        "first": "Donovan",
+        "last": "Mitchell",
+        "team": "Cavaliers",
+        "height": "6'1",
+        "Points": "27.9",
+        "vote": "4,440,133",
+        "appearances": "4",
+        "number": "45"
+      },
+      "accolades": {
+        "popularity": "Top 10",
+        "MVP": "Maybe Next Year",
+        "Ability": "Closer"
+      }
+    },
+    {
+      "player": {
+        "first": "Jaylen",
+        "last": "Brown",
+        "team": "Celtics",
+        "height": "6'6",
+        "Points": "27",
+        "vote": "2,416,644",
+        "appearances": "0",
+        "number": "7"
+      },
+      "accolades": {
+        "popularity": "reserve",
+        "MVP": "Maybe Next Year",
+        "Ability": "normal"
+      }
+    },
+    {
+      "player": {
+        "first": "James",
+        "last": "Harden",
+        "team": "76ers",
+        "height": "6'5",
+        "Points": "21.4",
+        "vote": "2,211,447",
+        "appearances": "8",
+        "number": "1"
+      },
+      "accolades": {
+        "popularity": "reserve",
+        "MVP": "Maybe Next Year",
+        "Ability": "Clutch"
+      }
+    },
+    {
+      "player": {
+        "first": "Trae",
+        "last": "Young",
+        "team": "Hawks",
+        "height": "7'1",
+        "Points": "27.2",
+        "vote": "1,683696",
+        "appearances": "2",
+        "number": "11"
+      },
+      "accolades": {
+        "popularity": "reserve",
+        "MVP": "Maybe Next Year",
+        "Ability": "Clutch"
+      }
+    },
+    {
+      "player": {
+        "first": "Demar",
+        "last": "DeRozan",
+        "team": "Bulls",
+        "height": "6'6",
+        "Points": "26.4",
+        "vote": "1,291,807",
+        "appearances": "5",
+        "number": "11"
+      },
+      "accolades": {
+        "popularity": "reserve",
+        "MVP": "Maybe Next Year",
+        "Ability": "normal"
+      }
+    },
+    {
+      "player": {
+        "first": "Lamelo",
+        "last": "Ball",
+        "team": "Nets",
+        "height": "6'7",
+        "Points": "23",
+        "vote": "691,087",
+        "appearances": "1",
+        "number": "1"
+      },
+      "accolades": {
+        "popularity": "reserve",
+        "MVP": "Maybe Next Year",
+        "Ability": "normal"
+      }
+    },
+    {
+      "player": {
+        "first": "Tyrese",
+        "last": "Hailburton",
+        "team": "Pacers",
+        "height": "6'5",
+        "Points": "20.2",
+        "vote": "653,123",
+        "appearances": "0",
+        "number": "0"
+      },
+      "accolades": {
+        "popularity": "reserve",
+        "MVP": "Maybe Next Year",
+        "Ability": "normal"
+      }
+    },
+    {
+      "player": {
+        "first": "Derrick",
+        "last": "Rose",
+        "team": "Knicks",
+        "height": "6'3",
+        "Points": "5.8",
+        "vote": "428,509",
+        "appearances": "3",
+        "number": "4"
+      },
+      "accolades": {
+        "popularity": "reserve",
+        "MVP": "Maybe Next Year",
+        "Ability": "normal"
+      }
+    },
+    {
+      "player": {
+        "first": "Darius",
+        "last": "Garland",
+        "team": "Cavaliers",
+        "height": "6'1",
+        "Points": "21.9",
+        "vote": "375,405",
+        "appearances": "0",
+        "number": "10"
+      },
+      "accolades": {
+        "popularity": "reserve",
+        "MVP": "Maybe Next Year",
+        "Ability": "normal"
+      }
+    }
+  ]
+}
