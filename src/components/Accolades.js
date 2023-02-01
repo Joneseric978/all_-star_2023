@@ -1,10 +1,10 @@
 import React from 'react'
 
 const Accolades = (props) => {
-  console.log(props.accolades.name)
+  console.log(props.accolades.special)
   let colorVariable
 
-  switch (props.genre.name) {
+  switch (props.accolades.special) {
     case 'GOAT':
       colorVariable = 'red'
       break
@@ -32,7 +32,7 @@ const Accolades = (props) => {
     case 'Maybe Next Year':
       colorVariable = 'tan'
       break
-    case 'Candidate':
+    case 'MVP Candidate':
       colorVariable = 'brown'
       break
 
@@ -42,7 +42,7 @@ const Accolades = (props) => {
   return (
     <ul className="accolades">
       <div style={{ backgroundColor: colorVariable }}>
-        {props.accolades.name}
+        {props.accolades.special}
       </div>
     </ul>
   )
