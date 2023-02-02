@@ -43,7 +43,9 @@ font-style: italic;
 }
 
 #timer{
-  background: black
+  background: rgb(94, 5, 5)
+}
 
-
+.some_div {
+  background-color: aqua;
 }
