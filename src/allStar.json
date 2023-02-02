@@ -396,6 +396,72 @@
     ]
   },
   {
+    "picture": "http://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https://valleyofthesuns.com/wp-content/uploads/getty-images/2017/11/870701714-phoenix-suns-v-new-york-knicks.jpg.jpg",
+    "first": "Devin",
+    "last": "Booker",
+    "team": "Suns",
+    "height": "6'5",
+    "Points": "27.1",
+    "vote": "432,980",
+    "appearances": "3",
+    "number": "1",
+    "accolades": [
+      {
+        "special": "reserve"
+      },
+      {
+        "special": "Maybe Next Year"
+      },
+      {
+        "special": "Closer"
+      }
+    ]
+  },
+  {
+    "picture": "http://s.yimg.com/uu/api/res/1.2/_0lSf2cni_opQKBz7SwMvw--~B/aD0yMTY3O3c9MzI1MTtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2019-11/9d2f9050-10b0-11ea-bef6-1bb67004fef0",
+    "first": "Jimmy",
+    "last": "Butler",
+    "team": "Heat",
+    "height": "6'7",
+    "Points": "21.9",
+    "vote": "1,097,720",
+    "appearances": "6",
+    "number": "22",
+    "accolades": [
+      {
+        "special": "reserve"
+      },
+      {
+        "special": "Maybe Next Year"
+      },
+      {
+        "special": "Closer"
+      }
+    ]
+  },
+  {
+    "picture": "https://images.solecollector.com/complex/images/c_crop,h_1688,w_3000,x_0,y_54/f_auto,fl_lossy,q_auto,w_1200/spxi3r9ptqnevaakxx3f/ja-morant-grizzlies-warriors-2022.jpg",
+    "first": "Ja",
+    "last": "Morant",
+    "team": "Grizzles",
+    "height": "6'3",
+    "Points": "27.3",
+    "vote": "2,214,793",
+    "appearances": "1",
+    "number": "12",
+    "accolades": [
+      {
+        "special": "reserve"
+      },
+      {
+        "special": "Maybe Next Year"
+      },
+      {
+        "special": "Closer"
+      }
+    ]
+  },
+  {
     "picture": "https://cdn.nba.com/manage/2022/10/domantas-sabonis-iso-looks.jpg",
     "first": "Domantas",
     "last": "Sabonis",
@@ -436,28 +502,6 @@
       },
       {
         "special": "normal"
-      }
-    ]
-  },
-  {
-    "picture": "https://images.solecollector.com/complex/images/c_crop,h_1688,w_3000,x_0,y_54/f_auto,fl_lossy,q_auto,w_1200/spxi3r9ptqnevaakxx3f/ja-morant-grizzlies-warriors-2022.jpg",
-    "first": "Ja",
-    "last": "Morant",
-    "team": "Grizzles",
-    "height": "6'3",
-    "Points": "27.3",
-    "vote": "2,214,793",
-    "appearances": "1",
-    "number": "12",
-    "accolades": [
-      {
-        "special": "reserve"
-      },
-      {
-        "special": "Maybe Next Year"
-      },
-      {
-        "special": "Closer"
       }
     ]
   },
@@ -568,50 +612,6 @@
       },
       {
         "special": "normal"
-      }
-    ]
-  },
-  {
-    "picture": "http://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https://valleyofthesuns.com/wp-content/uploads/getty-images/2017/11/870701714-phoenix-suns-v-new-york-knicks.jpg.jpg",
-    "first": "Devin",
-    "last": "Booker",
-    "team": "Suns",
-    "height": "6'5",
-    "Points": "27.1",
-    "vote": "432,980",
-    "appearances": "3",
-    "number": "1",
-    "accolades": [
-      {
-        "special": "reserve"
-      },
-      {
-        "special": "Maybe Next Year"
-      },
-      {
-        "special": "Closer"
-      }
-    ]
-  },
-  {
-    "picture": "http://s.yimg.com/uu/api/res/1.2/_0lSf2cni_opQKBz7SwMvw--~B/aD0yMTY3O3c9MzI1MTtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2019-11/9d2f9050-10b0-11ea-bef6-1bb67004fef0",
-    "first": "Jimmy",
-    "last": "Butler",
-    "team": "Heat",
-    "height": "6'7",
-    "Points": "21.9",
-    "vote": "1,097,720",
-    "appearances": "6",
-    "number": "22",
-    "accolades": [
-      {
-        "special": "reserve"
-      },
-      {
-        "special": "Maybe Next Year"
-      },
-      {
-        "special": "Closer"
       }
     ]
   },

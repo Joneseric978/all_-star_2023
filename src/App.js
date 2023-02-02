@@ -4,6 +4,7 @@ import playerArray from './allStar.json'
 import Player from './components/Player'
 import Accolades from './components/Accolades'
 import SideBar from './components/SideBar'
+import Button from './components/Button'
 
 const App = () => {
   return (
@@ -11,6 +12,7 @@ const App = () => {
       <h1>NBA All-Stars</h1>
       <div className="flex-row">
         <SideBar />
+        <Button />
       </div>
       <ul>
         {playerArray.map((player) => {
