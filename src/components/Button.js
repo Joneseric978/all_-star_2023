@@ -23,13 +23,16 @@ const Button = (props) => {
   }
 
   return (
-    <div id="js_timer">
-      <div id="timer">
-        <span class="timer_part timer_part-minutes">00</span>
-        <span class="timer_part">:</span>
-        <span class="timer_part timer_part-Seconds">00</span>
-      </div>
-      <button onclick={pause}>pause</button>
+    <div id="timer">
+      <span class="timer_part timer_part-minutes">00</span>
+      <span class="timer_part">:</span>
+      <span class="timer_part timer_part-Seconds">00</span>
+      <button type="button" class="timer_btn-control timer_btn-start">
+        start
+      </button>
+      <button type="button" class="timer_btn timer_btn-reset">
+        reset
+      </button>
     </div>
   )
 }

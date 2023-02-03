@@ -43,9 +43,23 @@ font-style: italic;
 }
 
 #timer{
-  background: rgb(94, 5, 5)
+  background: rgb(94, 5, 5), 
+  
 }
 
-.some_div {
-  background-color: aqua;
+.timer_btn {
+  border-radius: 50%;
+  color: red;
+}
+.timer_btn-control {
+  border-radius: 50%;
+  color:green
+}
+
+.black {
+  background-color: rgb(100, 92, 90);
+}
+
+.coach{
+  background-color: coral;
 }
