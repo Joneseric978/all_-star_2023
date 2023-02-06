@@ -2,7 +2,10 @@ const Arena = (props) => {
   console.log(props)
   return (
     <div>
-      <img src={props.stadium} />
+      <img
+        className="jazz"
+        src="https://cdn.nba.com/manage/2019/12/arena1-6aee5e47fa0184e679a2ad6c053f555e.jpg"
+      />
       <h3 className="coach">
         Coach 1: Michael Malone named coach of Team Lebrons
       </h3>
