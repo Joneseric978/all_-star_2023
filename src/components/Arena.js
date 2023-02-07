@@ -11,10 +11,10 @@ const Arena = (props) => {
         src="https://www.ticketnews.com/wp-content/uploads/2017/08/utah-jazz-arena-640x300.jpg"
       />
       <h3 className="coach">
-        Coach 1: Michael Malone named coach of Team Lebrons
+        Coach 1: Nuggets: Michael Malone named coach of Team Lebrons
       </h3>
       <h3 className="coach">
-        Coach 2: Joe Mazzulla named coach of Team Giannis
+        Coach 2: Joe Celtics: Mazzulla named coach of Team Giannis
       </h3>
     </div>
   )
