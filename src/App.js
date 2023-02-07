@@ -27,7 +27,7 @@ const App = () => {
                 vote={player.vote}
                 appearances={player.appearances}
                 picture={player.picture}
-                stadium={player.stadium}
+                team={player.team}
               />
               {player.accolades.map((accolades) => (
                 <Accolades accolades={accolades} />

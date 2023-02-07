@@ -8,7 +8,9 @@ const Player = (props) => {
           Name: {props.first} {props.last}
         </h3>
         <h5>Votes: {props.vote}</h5>
-        <h7>All Star Games: {props.appearances}</h7>
+        <p1>Team: {props.team}</p1>
+        <di> ....... </di>
+        <p2>All Star Games: {props.appearances}</p2>
       </div>
     </li>
   )
