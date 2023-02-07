@@ -25,6 +25,94 @@
     ]
   },
   {
+    "picture": "https://images2.minutemediacdn.com/image/upload/c_crop,w_2978,h_1675,x_0,y_0/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/83/01g8qt9n9393pmx8kkpn.jpg",
+    "first": "Luka",
+    "last": "Doncic",
+    "team": "Mavericks",
+    "height": "6'7",
+    "Points": "33",
+    "vote": "5,566,875",
+    "appearances": "2",
+    "number": "3",
+    "accolades": [
+      {
+        "special": "Top 10"
+      },
+      {
+        "special": "MVP Candidate"
+      },
+      {
+        "special": "Closer"
+      }
+    ]
+  },
+  {
+    "picture": "http://yebscore-cms.s3.us-east-2.amazonaws.com/2023/01/image03-12-1536x1024.jpeg",
+    "first": "Nikola",
+    "last": "Jokic",
+    "team": "Nuggets",
+    "height": "6'11",
+    "Points": "25.1",
+    "vote": "5,418,036",
+    "appearances": "5",
+    "number": "15",
+    "accolades": [
+      {
+        "special": "Top 10"
+      },
+      {
+        "special": "MVP Candidate"
+      },
+      {
+        "special": "Defender"
+      }
+    ]
+  },
+  {
+    "picture": "http://i1.wp.com/nba.thedailydunk.co/wp-content/uploads/2020/12/curry.jpg?w=1040&ssl=1",
+    "first": "Stephen",
+    "last": "Curry",
+    "team": "Warriors",
+    "height": "6'2",
+    "Points": "29.5",
+    "vote": "5,826,248",
+    "appearances": "9",
+    "number": "30",
+    "accolades": [
+      {
+        "special": "Top 10"
+      },
+      {
+        "special": "Maybe Next Year"
+      },
+      {
+        "special": "Clutch"
+      }
+    ]
+  },
+  {
+    "picture": "http://images.axios.com/pWF8zw5KydE9vw0-QaOVcCAFlL0=/0x0:1280x720/1920x1080/2019/07/24/1563970560972.jpg",
+    "first": "Zion",
+    "last": "Williamson",
+    "team": "Pelicans",
+    "height": "6'6",
+    "Points": "26",
+    "vote": "4,217,393",
+    "appearances": "2",
+    "number": "1",
+    "accolades": [
+      {
+        "special": "reserve"
+      },
+      {
+        "special": "Maybe Next Year"
+      },
+      {
+        "special": "Defender"
+      }
+    ]
+  },
+  {
     "picture": "https://assets-cms.thescore.com/uploads/image/file/330281/w768xh576_GettyImages-1079225218.jpg?ts=1545250155",
     "first": "Giannis",
     "last": "Antetokounmpo",
@@ -94,50 +182,6 @@
     ]
   },
   {
-    "picture": "http://yebscore-cms.s3.us-east-2.amazonaws.com/2023/01/image03-12-1536x1024.jpeg",
-    "first": "Nikola",
-    "last": "Jokic",
-    "team": "Nuggets",
-    "height": "6'11",
-    "Points": "25.1",
-    "vote": "5,418,036",
-    "appearances": "5",
-    "number": "15",
-    "accolades": [
-      {
-        "special": "Top 10"
-      },
-      {
-        "special": "MVP Candidate"
-      },
-      {
-        "special": "Defender"
-      }
-    ]
-  },
-  {
-    "picture": "https://images2.minutemediacdn.com/image/upload/c_crop,w_2978,h_1675,x_0,y_0/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/83/01g8qt9n9393pmx8kkpn.jpg",
-    "first": "Luka",
-    "last": "Doncic",
-    "team": "Mavericks",
-    "height": "6'7",
-    "Points": "33",
-    "vote": "5,566,875",
-    "appearances": "2",
-    "number": "3",
-    "accolades": [
-      {
-        "special": "Top 10"
-      },
-      {
-        "special": "MVP Candidate"
-      },
-      {
-        "special": "Closer"
-      }
-    ]
-  },
-  {
     "picture": "https://i1.wp.com/nypost.com/wp-content/uploads/sites/2/2021/04/durant_coinbase.jpg?quality=90&strip=all&ssl=1",
     "first": "Kevin",
     "last": "Durant",
@@ -159,28 +203,6 @@
       },
       {
         "special": "highlight"
-      }
-    ]
-  },
-  {
-    "picture": "http://i1.wp.com/nba.thedailydunk.co/wp-content/uploads/2020/12/curry.jpg?w=1040&ssl=1",
-    "first": "Stephen",
-    "last": "Curry",
-    "team": "Warriors",
-    "height": "6'2",
-    "Points": "29.5",
-    "vote": "5,826,248",
-    "appearances": "9",
-    "number": "30",
-    "accolades": [
-      {
-        "special": "Top 10"
-      },
-      {
-        "special": "Maybe Next Year"
-      },
-      {
-        "special": "Clutch"
       }
     ]
   },
@@ -241,28 +263,6 @@
     "vote": "4,307,925",
     "appearances": "8",
     "number": "3",
-    "accolades": [
-      {
-        "special": "reserve"
-      },
-      {
-        "special": "Maybe Next Year"
-      },
-      {
-        "special": "Defender"
-      }
-    ]
-  },
-  {
-    "picture": "http://images.axios.com/pWF8zw5KydE9vw0-QaOVcCAFlL0=/0x0:1280x720/1920x1080/2019/07/24/1563970560972.jpg",
-    "first": "Zion",
-    "last": "Williamson",
-    "team": "Pelicans",
-    "height": "6'6",
-    "Points": "26",
-    "vote": "4,217,393",
-    "appearances": "2",
-    "number": "1",
     "accolades": [
       {
         "special": "reserve"
