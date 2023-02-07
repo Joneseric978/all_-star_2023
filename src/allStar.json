@@ -18,6 +18,9 @@
       },
       {
         "special": "Clutch"
+      },
+      {
+        "special": "highlight"
       }
     ]
   },
@@ -40,6 +43,9 @@
       },
       {
         "special": "Clutch"
+      },
+      {
+        "special": "highlight"
       }
     ]
   },
@@ -150,6 +156,9 @@
       },
       {
         "special": "Clutch"
+      },
+      {
+        "special": "highlight"
       }
     ]
   },
@@ -216,6 +225,9 @@
       },
       {
         "special": "Closer"
+      },
+      {
+        "special": "highlight"
       }
     ]
   },
@@ -326,6 +338,9 @@
       },
       {
         "special": "normal"
+      },
+      {
+        "special": "highlight"
       }
     ]
   },
@@ -348,6 +363,9 @@
       },
       {
         "special": "normal"
+      },
+      {
+        "special": "highlight"
       }
     ]
   },
@@ -370,6 +388,9 @@
       },
       {
         "special": "normal"
+      },
+      {
+        "special": "highlight"
       }
     ]
   },
@@ -458,6 +479,9 @@
       },
       {
         "special": "Closer"
+      },
+      {
+        "special": "highlight"
       }
     ]
   },
@@ -678,6 +702,9 @@
       },
       {
         "special": "normal"
+      },
+      {
+        "special": "hightlight"
       }
     ]
   },
@@ -744,6 +771,9 @@
       },
       {
         "special": "normal"
+      },
+      {
+        "special": "highlight"
       }
     ]
   },
@@ -788,6 +818,9 @@
       },
       {
         "special": "normal"
+      },
+      {
+        "special": "hightlight"
       }
     ]
   },

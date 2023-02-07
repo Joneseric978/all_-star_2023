@@ -35,6 +35,9 @@ const Accolades = (props) => {
     case 'MVP Candidate':
       colorVariable = 'brown'
       break
+    case 'highlight':
+      colorVariable = 'gold'
+      break
 
     default:
       colorVariable = 'white'
