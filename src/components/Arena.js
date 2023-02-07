@@ -16,6 +16,14 @@ const Arena = (props) => {
       <h3 className="coach">
         Coach 2: Joe Celtics: Mazzulla named coach of Team Giannis
       </h3>
+      <img
+        className="malone"
+        src="https://cdn.vox-cdn.com/thumbor/bjdasSWTznYXzIPNV7eZi3HJgAE=/0x7:1891x1268/1200x800/filters:focal(0x7:1891x1268)/cdn.vox-cdn.com/uploads/chorus_image/image/50188271/usa-today-9257377.0.jpg"
+      />
+      <img
+        className="mazzula"
+        src="https://tse1.mm.bing.net/th?id=OIP.W9Ox6VgvgFeWSqWj2XRGAAHaDn&pid=Api&P=0"
+      />
     </div>
   )
 }
